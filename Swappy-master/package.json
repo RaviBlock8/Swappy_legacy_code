@@ -1,0 +1,29 @@
+{
+  "name": "swappy",
+  "version": "0.1.0",
+  "description": "A Decentralized Exchange, for instant swap of tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "bn.js": "^5.1.1",
+    "truffle-assertions": "^0.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLOK8/Swappy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLOK8/Swappy/issues"
+  },
+  "homepage": "https://github.com/BLOK8/Swappy#readme"
+}

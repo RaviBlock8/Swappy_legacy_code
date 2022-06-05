@@ -1,0 +1,88 @@
+const data = [
+	{
+		token1: "BTC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "OGN",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "DAI",
+		token2: "MKR",
+		price: "0.26738",
+		perc: "1.20",
+		up: false,
+	},
+	{
+		token1: "BTC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: false,
+	},
+	{
+		token1: "ASC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: false,
+	},
+	{
+		token1: "BSC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "ASC",
+		token2: "DAI",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "MKR",
+		token2: "ASC",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "BTC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: false,
+	},
+	{
+		token1: "OGN",
+		token2: "DAI",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "BTC",
+		token2: "ETH",
+		price: "0.26738",
+		perc: "1.20",
+		up: true,
+	},
+	{
+		token1: "DAI",
+		token2: "BSC",
+		price: "0.26738",
+		perc: "1.20",
+		up: false,
+	},
+];
+
+export default data;
